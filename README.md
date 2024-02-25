@@ -45,7 +45,7 @@
 - dispatch(action)-calls(reducer function())
 - Selector - (Cart in Header Subscribe to the Store)
 
-# Seeting up Testing in our App
+# Setting up Testing in our App
 
 - Install Reacr Testing Library
 - Installed jest
